@@ -1,3 +1,25 @@
+"""
+IDEA:
+If I put any file in the folder download
+
+my code will cheack that if it is 
+
+.exe 
+.msi 
+.pdf
+.ppt
+.word
+.xslx
+.zip
+.rar
+.iso
+
+and make a folder in downloads 
+and will transport the file in the folder
+else if none of those are satisfied 
+then it will put the file i etc named folder
+"""
+
 import os
 import shutil
 
